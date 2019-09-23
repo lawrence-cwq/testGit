@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("test 333");
         System.out.println("test 111");
         System.out.println("git checkout -b dev master");
+        System.out.println("dev edit");
     }
 }
